@@ -318,12 +318,6 @@
       "name": "Egypt"
     },
     {
-      "country": "EH",
-      "latitude": 24.215527,
-      "longitude": -12.885834,
-      "name": "Western Sahara"
-    },
-    {
       "country": "ER",
       "latitude": 15.179384,
       "longitude": 39.782334,
@@ -1118,7 +1112,7 @@
       "country": "ZA",
       "latitude": -30.559482,
       "longitude": 22.937506,
-      "flag": "South Africa"
+      "name": "South Africa"
     },
     {
       "country": "ZM",

@@ -1,9 +1,8 @@
 import React from "react";
-import { Cards, Chart, Map, CountryPicker } from "./Components";
+import { Cards, Chart, Map, CountryPicker, Footer } from "./Components";
 import styles from "./App.module.css";
 import { fetchData } from "./api";
 import coronaImage from "./images/image.png";
-// import Footer from "./Components/Footer/Footer";
 
 class App extends React.Component {
   state = {
@@ -32,7 +31,7 @@ class App extends React.Component {
           <br />
           <Chart data={data} country={country} />
           <br />
-          {/* <Footer /> */}
+          <Footer />
         </div>
       </div>
     );
