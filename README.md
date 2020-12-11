@@ -2,9 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Run the project lin local server
 
-In the project directory, you can run:
+Use window terminal (cmd) or Visual Code terminal, cd to the project directory.
+
+In the project directory, run:
 
 ### `npm start`
 
@@ -18,5 +20,10 @@ You will also see any lint errors in the console.
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+## Firebase server
+
+The project is deployed to Firebase server.
+Check out the Project at [COVID19 tracker](https://cpsc349-covid19-project-hn.web.app/) 
 
 
