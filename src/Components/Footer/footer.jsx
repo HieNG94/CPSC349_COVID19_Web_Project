@@ -2,10 +2,6 @@ import React from "react";
 import styles from "./Footer.module.css";
 
 const Footer = () => {
-  const onMouseOut = (e) => {
-    e.target.style.color = "#cccccc";
-  };
-
   return (
     <React.Fragment>
       <div className={styles.container}>
@@ -30,7 +26,7 @@ const Footer = () => {
         </h6>
       </div>
       <div className={styles.container}>
-      <h6
+        <h6
           style={{
             display: "block",
             marginBottom: "0px",
@@ -39,7 +35,8 @@ const Footer = () => {
             textAlign: "center",
           }}
         >
-          [Cards, Chart, CountryPicker] components are created by following the tutorial of {" "}
+          Components are created by following the
+          tutorial of{" "}
           <a
             href="https://github.com/sabesansathananthan/covid-19-tracker"
             target="_blank"
@@ -57,6 +54,14 @@ const Footer = () => {
             style={{ color: "rgba(0,0,255,0.6)", textDecoration: "none" }}
           >
             Mathdroid
+          </a>
+          <a
+            href="https://covidtracking.com/data/api"
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{ color: "rgba(0,0,255,0.6)", textDecoration: "none" }}
+          >
+            , The COVID tracking project
           </a>
         </h6>
       </div>
