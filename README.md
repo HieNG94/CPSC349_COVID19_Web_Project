@@ -46,6 +46,6 @@ The project is build with the help from the article:
 ## COVID API
 
 <a href= "https://covid19.mathdro.id/api/">
-<img src="https://img.shields.io/badge/built%20with-mathroid-orange"/></a> <a href= "https://covidtracking.com/data/api"><img alt="Website" src="https://img.shields.io/website?label=build%20with&up_color=orange&up_message=dataAPI&url=https%3A%2F%2Fcovidtracking.com%2Fdata%2Fapi"></a>
+<img src="https://img.shields.io/badge/built%20with-mathroid-orange"/></a> <a href= "https://covidtracking.com/data/api"><img alt="Website" src="https://img.shields.io/website?label=build%20with&up_color=orange&up_message=dataAPI&url=https%3A%2F%2Fcovidtracking.com%2Fdata%2Fapi"></a><a href= "https://developers.google.com/public-data/docs/canonical/countries_csv"><img alt="Website" src="https://img.shields.io/website?label=Google&logo=Google&up_color=orange&up_message=countries.json&url=https%3A%2F%2Fdevelopers.google.com%2Fpublic-data%2Fdocs%2Fcanonical%2Fcountries_csv"></a>
 
 
